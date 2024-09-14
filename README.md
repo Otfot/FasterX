@@ -1,7 +1,7 @@
 # FasterX
 
 <p align="center">
-  <img  height="100" src="https://github.com/Otfot/FasterX/raw/master/logo.png">
+  <img  height="100" src="https://github.com/Otfot/FasterX/raw/main/logo.png">
 </p>
 
 > 让应用访问的更快一些
@@ -9,7 +9,7 @@
 通过查询不同 DNS 返回的 IP 地址，测试本地网络访问目标应用最快的 IP 地址得到最佳 Hosts 配置。
 
 <p align="center">
-  <img  height="400" src="https://github.com/Otfot/FasterX/raw/master/fasterx-demo.gif">
+  <img  height="400" src="https://github.com/Otfot/FasterX/raw/main/fasterx-demo.gif">
 </p>
 
 
