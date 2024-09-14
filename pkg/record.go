@@ -57,7 +57,3 @@ type Record struct {
 func (r *Record) Output() string {
 	return r.Result.IP.String() + " " + r.Source.Domain
 }
-
-func (r *Record) Valid() bool {
-	return r.Result.Duration < MaxDuration
-}
